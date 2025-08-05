@@ -1,4 +1,4 @@
-#Preview of my programming proficiency
+# Preview of my programming proficiency
 
 Around 2021 I wanted to be a fornt End Web Devloper and studied a bit of HTML, CSS and JAVASCRIPT <br>
 
