@@ -11,8 +11,7 @@ I wanted to be a Front End Web Devloper and studied a bit of `HTML`, `CSS` and `
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
-I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. <br>
+I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my personal computing as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator<br>
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
