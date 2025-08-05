@@ -1,7 +1,9 @@
 # bio_
 A preview of my programming proficiency
 
-Around 2021 I wanted to be a fornt End Web Devloper and studied a bit of HTML, CSS and JAVASCRIPT
+Around 2021 I wanted to be a fornt End Web Devloper and studied a bit of HTML, CSS and JAVASCRIPT <br>
+
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
