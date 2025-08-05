@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"><font color="green">
 
 # Preview of my programming proficiency
 
@@ -33,5 +33,5 @@ I also have a interest in C and Rust.<br>
 The lanaguage I respect the most is x86_64 Assembly Language, it really teaches how the CPU works on a intricate level.<br>
 ![x86_64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-525252?style=for-the-badge&logo=cogs&logoColor=white)
 
-</p>
+</font></p>
 
