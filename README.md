@@ -34,4 +34,6 @@ The lanaguage I respect the most is x86_64 Assembly Language, it really teaches 
 ![x86_64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-525252?style=for-the-badge&logo=cogs&logoColor=white)
 
 </font></p>
-
+<p><font color="green">
+This entire paragraph is green.
+</font></p>
