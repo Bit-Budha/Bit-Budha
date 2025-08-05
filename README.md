@@ -1,5 +1,6 @@
 # Preview of my programming proficiency
 
+<p align="center">
 Around 2021 I wanted to be a fornt End Web Devloper and studied a bit of HTML, CSS and JAVASCRIPT <br>
 
 
@@ -31,6 +32,5 @@ I also have a interest in C and Rust.<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-
-
+</p>
 
