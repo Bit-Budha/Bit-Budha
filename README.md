@@ -1,6 +1,7 @@
 # Preview of my programming proficiency
 
 <p align="center">
+  
 Around 2021 I wanted to be a fornt End Web Devloper and studied a bit of HTML, CSS and JAVASCRIPT <br>
 
 
