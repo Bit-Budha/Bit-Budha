@@ -2,7 +2,7 @@
 
 # Preview Of My Programming Proficiency
 
-I looked Blockchain Engineering and looked into the `Solidity` programming language for the Ethereum Blockchain.<br>
+I looked Blockchain Engineering and studied the `Solidity` programming language for the Ethereum Blockchain.<br>
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   
 I explored Front End Web Devlopment and studied a bit of `HTML`, `CSS` and `Javascript`. I'm going to be building out my website. Here are a few of my <a href="https://github.com/Bit-Budha/website_inspirations.repo/tree/main">inspirations</a>.
