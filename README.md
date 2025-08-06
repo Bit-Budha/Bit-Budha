@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-# Preview of my programming proficiency
+# Preview Of My Programming Proficiency
 
 I wanted Blockchain Engineer and looked into the `Solidity` programming language for the Ethereum Blockchain.<br>
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
