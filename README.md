@@ -13,8 +13,7 @@ I explored Front End Web Devlopment and studied a bit of `HTML`, `CSS` and `Java
 
 Live Coding music has beeen on of the most interseting things I've seen done with code in years.<a href="https://strudel.cc/workshop/getting-started/">Studel</a> is a live coding platfrom that uses javascript in the browser. I've been experimenting making music with it.
 
-**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my <a href="https://www.youtube.com/watch?v=KNgOpRoJlwU">personal computing</a> as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator
-https://www.youtube.com/watch?v=KNgOpRoJlwU&t=11s<br>
+**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my <a href="https://www.youtube.com/watch?v=KNgOpRoJlwU">personal computing</a> as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator <br>
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)**
 
@@ -32,7 +31,7 @@ I also have to learn more of `C` to understand the  <a href="https://www.linkedi
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-The lanaguage I respect the most is `x86_64 Assembly Language`, it really teaches how the CPU works on a intricate level. I respect Malware Analyst and Reverse Engineers a ton.<br>
+The lanaguage I respect the most is `x86_64 Assembly Language`, it really teaches how the CPU works on a intricate level. I respect Malware Analyst and <a href="https://github.com/Bit-Budha/reverse_engineering.repo">Reverse Engineers</a> a ton.<br>
 ![x86_64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-525252?style=for-the-badge&logo=cogs&logoColor=white)
 
 
