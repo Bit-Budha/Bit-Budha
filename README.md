@@ -30,7 +30,7 @@ I dabbled in `C#` a bit for my interest in Unity game engine..<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-I also have to learn more of `C` to understand the Linux Keranl better, also I know `Rust` is gradually being addeded into the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7363390688975077376/">Linux Kernal</a>. as well so I have to be ready for that as well. <br>
+I also have to learn more of `C` to understand the  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7363390688975077376/">Linux Kernal</a>better, also I know `Rust` is gradually being addeded into the Linux Kernal as well so I have to be ready for that as well. <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
