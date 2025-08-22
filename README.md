@@ -15,7 +15,8 @@ I'm getting into Live Coding music with this platform that uses Javascript.
 https://strudel.cc/workshop/getting-started/
 
 
-**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my personal computing as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator<br>
+**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my personal computing as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator
+https://www.youtube.com/watch?v=KNgOpRoJlwU&t=11s<br>
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)**
 
