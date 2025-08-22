@@ -11,11 +11,9 @@ I explored Front End Web Devlopment and studied a bit of `HTML`, `CSS` and `Java
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-I'm getting into Live Coding music with this platform that uses Javascript.
-https://strudel.cc/workshop/getting-started/
+Live Coding music has beeen on of the most interseting things I've seen done with code in years.<a href="https://strudel.cc/workshop/getting-started/">Studel</a> is a live coding platfrom that uses javascript in the browser. I've been experimenting making music with it.
 
-
-**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my personal computing as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator
+**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my <a href="https://www.youtube.com/watch?v=KNgOpRoJlwU">personal computing</a> as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator
 https://www.youtube.com/watch?v=KNgOpRoJlwU&t=11s<br>
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)**
