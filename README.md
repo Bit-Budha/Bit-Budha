@@ -28,6 +28,8 @@ I love anything that keeps me in the CLI (Command Line Interface), so on the Win
 I dabbled in `C#` a bit for my interest in Unity game engine..<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+As I create more projects with these languages I'll create more repositories to showcase my skills.
+
 
 I also have to learn more of `C` to understand the Linux Keranl better, also I know `Rust` is gradually being addeded into the Linux Kernal as well so I have to be ready for that as well. <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
