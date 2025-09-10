@@ -2,6 +2,8 @@
 
 # Preview Of My Programming Proficiency
 
+<a href="https://bit-budha.github.io/index.html">I'm building out my website with raw HTML, CSS and JAVASCRIPT come check it out! </a> <br>
+
 I looked into Blockchain Engineering and studied the `Solidity` programming language for the Ethereum Blockchain with the help of <a href="https://remix.ethereum.org/)](https://remix.ethereum.org/">Remix IDE</a> <br>
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   
