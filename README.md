@@ -4,6 +4,12 @@
 
 <a href="https://bit-budha.github.io/index.html">I'm building out my website with raw HTML, CSS and JAVASCRIPT come check it out! </a> <br>
 
+I'm currently activly learning more about `sql` and `Python` to enhance my skills into<a href="https://remix.ethereum.org/)](https://remix.ethereum.org/">Databricks Engineering</a> to grow in the company and position I'm in. I'll be documenting the whole journey on my website. I have resources over there that can help you start to learn as well. <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 I looked into Blockchain Engineering and studied the `Solidity` programming language for the Ethereum Blockchain with the help of <a href="https://remix.ethereum.org/)](https://remix.ethereum.org/">Remix IDE</a> <br>
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   
