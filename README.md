@@ -2,7 +2,7 @@
 
 # Preview Of My Programming Proficiency
 
-<a href="https://bit-budha.github.io/index.html">I'm building out my website with raw HTML, CSS and JAVASCRIPT come check it out! </a> <br>
+<a href="https://bit-budha.github.io/index.html](https://bit-budha.github.io/databricks_engineering.html">I'm building out my website come check it out! </a> <br>
 
 I'm currently learning more about `sql` and `Python` to enhance my skills into <a href="https://bit-budha.github.io/databricks_engineering.html">Databricks Engineering</a> to grow in the company. I'll be documenting the whole journey on my website. I have resources over there that can help you start to learn as well. <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
