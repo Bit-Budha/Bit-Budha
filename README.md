@@ -3,8 +3,11 @@
 Monday the 27th of July 2026 Update.
 I got my 
 
+CompTIA Tech+ <br>
 CompTIA A+ <br> 
 CompTIA Network+
+and 
+CompTIA Security+ 
 
 And am now working towards my 
 Cisco Certified Network Associate (CCNA)
