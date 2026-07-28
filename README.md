@@ -3,7 +3,7 @@
 Monday the 27th of July 2026 Update
 I got my 
 
-CompTIA A+
+CompTIA A+ <br> 
 CompTIA Network+
 
 And am now working towards my 
