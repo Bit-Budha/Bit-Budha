@@ -11,18 +11,23 @@ Cisco Certified Network Associate (CCNA)
 For next month and will move onto my 
 
 
-Cisco Certified Specialist – Collaboration Core
-Microsoft 365 Certified: Fundamentals (MS-900)
-Microsoft Certified: Azure AI Fundamentals (AI-900)
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-AWS Certified Cloud Practitioner
-AWS Certified Solutions Architect – Associate
-AWS Certified AI Practitioner
-Certified Wireless Technology Specialist (CWTS)
+Cisco Certified Specialist – Collaboration Core <br>
+Microsoft 365 Certified: Fundamentals (MS-900) <br>
+Microsoft Certified: Azure AI Fundamentals (AI-900) <br>
+Microsoft Certified: Azure Administrator Associate (AZ-104) <br>
+AWS Certified Cloud Practitioner <br>
+AWS Certified Solutions Architect – Associate <br>
+AWS Certified AI Practitioner <br>
+Certified Wireless Technology Specialist (CWTS) <br>
 
 For the rest of the year, I got the WIOA grant and I'm taking classes at PC Professor 
 
 https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
+
+I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters
+https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html
+
+Outside of that I have to work towards my RHCSA, RHCE, and RHCE and am going to be focusing on Linux Security Administration 
 
 I have to update all the stuff below this, they are a bit outdated.
 
