@@ -1,5 +1,31 @@
 <p align="center"><font color="green">
 
+Monday the 27th of July 2026 Update
+I got my 
+
+CompTIA A+
+CompTIA Network+
+
+And am now working towards my 
+Cisco Certified Network Associate (CCNA)
+For next month and will move onto my 
+
+
+Cisco Certified Specialist – Collaboration Core
+Microsoft 365 Certified: Fundamentals (MS-900)
+Microsoft Certified: Azure AI Fundamentals (AI-900)
+Microsoft Certified: Azure Administrator Associate (AZ-104)
+AWS Certified Cloud Practitioner
+AWS Certified Solutions Architect – Associate
+AWS Certified AI Practitioner
+Certified Wireless Technology Specialist (CWTS)
+
+For the rest of the year, I got the WIOA grant and I'm taking classes at PC Professor 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
+
+I have to update all the stuff below this, they are a bit outdated.
+
 # Preview Of My Programming Proficiency
 
 <a href="https://bit-budha.github.io/databricks_engineering.html">I'm building out my website come check it out! </a> <br>
