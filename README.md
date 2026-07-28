@@ -6,7 +6,7 @@ I got my
 CompTIA Tech+ <br>
 CompTIA A+ <br> 
 CompTIA Network+
-and 
+and <br>
 CompTIA Security+ 
 
 And am now working towards my 
