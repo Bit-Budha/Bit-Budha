@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-Monday the 27th of July 2026 Update
+Monday the 27th of July 2026 Update.
 I got my 
 
 CompTIA A+ <br> 
@@ -24,7 +24,7 @@ For the rest of the year, I got the WIOA grant and I'm taking classes at PC Prof
 
 https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
 
-I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters
+I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html
 
 Outside of that I have to work towards my RHCSA, RHCE, and RHCE and am going to be focusing on Linux Security Administration 
