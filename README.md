@@ -30,7 +30,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html
 
-Outside of that I have to work towards my RHCSA, RHCE, and RHCE and am going to be focusing on Linux Security Administration 
+Outside of that I have to work towards my RHCSA, RHCE, and RHCE and am going to be focusing on Linux Security Administration. I'm going to combine Red Hat Enterpise Linux and Red Teaming
 
 I have to update all the stuff below this, they are a bit outdated.
 
