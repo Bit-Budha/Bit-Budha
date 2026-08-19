@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-Monday the 27th of July 2026 Update.
+Tuesday the 18th of August 2026 Update.
 I got my 
 
 CompTIA Tech+ <br>
