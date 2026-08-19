@@ -33,10 +33,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html
 
-Outside of that I'm going to get my RHCA from Red Hat to max out in Enterprise Linux 
+Outside of that I'm going to get my RHCA from Red Hat to max out in Enterprise Linux <br>
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
 
-Also going to get my OSEE and max out on the Red Teamings side <br>
+Also going to get my OSEE to max out on the Red Teamings side as well<br>
 https://www.offsec.com/courses/exp-401/
 
 The goal is to live in the CLI, hacking stuff and never have to come back to the GUI or touch a mouse.
