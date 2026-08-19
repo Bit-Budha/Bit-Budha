@@ -1,6 +1,9 @@
 <p align="center"><font color="green">
 
 Tuesday the 18th of August 2026 Update.
+
+Mainly focused on Enterprise Linux, the Linux Kernal and Red Teaming.
+
 I got my 
 
 CompTIA Tech+ <br>
@@ -33,7 +36,7 @@ https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/a
 Outside of that I'm going to get my RHCA from Red Hat to max out in Enterprise Linux 
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
 
-Also going to get my OSEE and max out on the Red Teamings side
+Also going to get my OSEE and max out on the Red Teamings side <br>
 https://www.offsec.com/courses/exp-401/
 
 The goal is to live in the CLI, hacking stuff and never have to come back to the GUI or touch a mouse.
