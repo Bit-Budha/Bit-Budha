@@ -21,8 +21,8 @@ Cisco Certified Specialist – Collaboration Core <br>
 Microsoft 365 Certified: Fundamentals (MS-900) <br>
 Microsoft Certified: Azure AI Fundamentals (AI-900) <br>
 Microsoft Certified: Azure Administrator Associate (AZ-104) <br>
-AWS Certified Cloud Practitioner <br>
-AWS Certified Solutions Architect – Associate <br>
+AWS Certified Cloud Practitioner — CLF-C02 <br>
+AWS Certified AI Practitioner — AIF-C01 <br>
 AWS Certified AI Practitioner <br>
 Certified Wireless Technology Specialist (CWTS) <br>
 
