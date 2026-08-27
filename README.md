@@ -10,7 +10,8 @@ CompTIA Tech+ <br>
 CompTIA A+ <br> 
 CompTIA Network+
 and <br>
-CompTIA Security+ 
+CompTIA Security+ <br>
+Cisco Certified Support Technician Networking (CCST) 100-150
 
 And am now working towards my 
 Cisco Certified Network Associate (CCNA)
@@ -23,7 +24,7 @@ Microsoft Certified: Azure AI Fundamentals (AI-900) <br>
 Microsoft Certified: Azure Administrator Associate (AZ-104) <br>
 AWS Certified Cloud Practitioner — CLF-C02 <br>
 AWS Certified AI Practitioner — AIF-C01 <br>
-AWS Certified AI Practitioner <br>
+AWS Certified Solutions Architect – Associate — SAA-C03<br>
 Certified Wireless Technology Specialist (CWTS) <br>
 
 For the rest of the year, I got the WIOA grant and I'm taking classes at PC Professor 
