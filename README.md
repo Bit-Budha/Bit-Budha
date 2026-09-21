@@ -4,7 +4,7 @@ Monday the 21st of September 2026 Update
 
 My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
 
-I got my 
+I have my 
 
 CompTIA Tech+ <br>
 CompTIA A+ <br> 
@@ -27,7 +27,6 @@ I'm now working towards my
 Cisco Certified Network Associate (CCNA)
 And then will be moving onto my
 
-
 Cisco Certified Specialist – Collaboration Core <br>
 Microsoft 365 Certified: Fundamentals (MS-900) <br>
 Microsoft Certified: Azure AI Fundamentals (AI-900) <br>
@@ -36,8 +35,6 @@ AWS Certified Cloud Practitioner — CLF-C02 <br>
 AWS Certified AI Practitioner — AIF-C01 <br>
 AWS Certified Solutions Architect – Associate — SAA-C03<br>
 Certified Wireless Technology Specialist (CWTS) <br>
-
-
 
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
@@ -48,5 +45,4 @@ https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-
 Also going to get my OSEE to max out on the Red Teamings side as well<br>
 https://www.offsec.com/courses/exp-401/
 
-The goal is to live in the CLI, hacking stuff and never have to come back to the GUI or touch a mouse.
-
+The goal is to live in the (CLI) command line interface, programming, and hacking, while never having to slow down in the GUI (graphical user interface) or chase a mouse.
