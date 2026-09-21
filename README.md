@@ -36,6 +36,9 @@ AWS Certified AI Practitioner — AIF-C01 <br>
 AWS Certified Solutions Architect – Associate — SAA-C03<br>
 Certified Wireless Technology Specialist (CWTS) <br>
 
+If you want to see all the enterprises and organizations I've worked with, check out the work history section on my Linekdin <br>
+https://www.linkedin.com/in/keganbastia
+
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
 
