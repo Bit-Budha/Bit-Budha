@@ -14,7 +14,7 @@ Cisco Certified Support Technician Networking (CCST) 100-150
 
 I got a WIOA grant for PC Professor and they are helping me get 13 tech certs this year, keep up with my progress here and on my Youtube channel
 
-My tech Youtube Channel <br>
+My Tech Youtube Channel <br>
 https://www.youtube.com/@BitBudha <br> 
 
 Tech Certification Progress Repository <br>
@@ -25,7 +25,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/ <br>
 
 I'm now working towards my
 Cisco Certified Network Associate (CCNA)
-And then will be moving onto my
+and then will be moving onto my
 
 Cisco Certified Specialist – Collaboration Core <br>
 Microsoft 365 Certified: Fundamentals (MS-900) <br>
