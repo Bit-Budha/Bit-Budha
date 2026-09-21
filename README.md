@@ -51,4 +51,7 @@ https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-
 Also going to get my OSEE to max out on the Red Teamings side as well<br>
 https://www.offsec.com/courses/exp-401/
 
+I also host the Blacks In Cybersecurity Podcast, check that out here <br>
+https://www.youtube.com/playlist?list=PLau8hF6Nab7sFdFPMu042N0ORjkTpGkpQ <br>
+
 The goal is to live in the (CLI) command line interface, programming, and hacking, while never having to slow down in the GUI (graphical user interface) or chase a mouse.
