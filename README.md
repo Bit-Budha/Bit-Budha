@@ -23,6 +23,9 @@ https://github.com/Bit-Budha/tech-certifications-study-notes.dir <br>
 PC Professor Grant Linkedin Post <br>
 https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/ <br>
 
+Credley <br>
+https://www.credly.com/users/bit-budha/edit/badges/credly <br>
+
 I'm now working towards my
 Cisco Certified Network Associate (CCNA)
 and then will be moving onto my
