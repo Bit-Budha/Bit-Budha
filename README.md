@@ -1,21 +1,31 @@
 <p align="center"><font color="green">
 
-Tuesday the 18th of August 2026 Update.
+Monday the 21st of September 2026 Update
 
-Mainly focused on Enterprise Linux, the Linux Kernal and Red Teaming.
+My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
 
 I got my 
 
 CompTIA Tech+ <br>
 CompTIA A+ <br> 
-CompTIA Network+
-and <br>
-CompTIA Security+ <br>
+CompTIA Network+ <br>
+CompTIA Security+ and<br>
 Cisco Certified Support Technician Networking (CCST) 100-150
 
-And am now working towards my 
+I got a WIOA grant for PC Professor and they are helping me get 13 tech certs this year, keep up with my progress here and on my Youtube channel
+
+My tech Youtube Channel <br>
+https://www.youtube.com/@BitBudha <br> 
+
+Tech Certification Progress Repository <br>
+https://github.com/Bit-Budha/tech-certifications-study-notes.dir <br>
+
+PC Professor Grant Linkedin Post <br>
+https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/ <br>
+
+I'm now working towards my
 Cisco Certified Network Associate (CCNA)
-For next month and will move onto my 
+And then will be moving onto my
 
 
 Cisco Certified Specialist – Collaboration Core <br>
@@ -27,12 +37,10 @@ AWS Certified AI Practitioner — AIF-C01 <br>
 AWS Certified Solutions Architect – Associate — SAA-C03<br>
 Certified Wireless Technology Specialist (CWTS) <br>
 
-For the rest of the year, I got the WIOA grant and I'm taking classes at PC Professor 
 
-https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
 
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
-https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html
+https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
 
 Outside of that I'm going to get my RHCA from Red Hat to max out in Enterprise Linux <br>
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
@@ -42,49 +50,3 @@ https://www.offsec.com/courses/exp-401/
 
 The goal is to live in the CLI, hacking stuff and never have to come back to the GUI or touch a mouse.
 
-I have to update all the stuff below this, they are a bit outdated.
-
-# Preview Of My Programming Proficiency
-
-<a href="https://bit-budha.github.io/databricks_engineering.html">I'm building out my website come check it out! </a> <br>
-
-I'm currently learning more about `sql` and `Python` to enhance my skills into <a href="https://bit-budha.github.io/databricks_engineering.html">Databricks Engineering</a> to grow in the company. I'll be documenting the whole journey on my website. I have resources over there that can help you start to learn as well. <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-I looked into Blockchain Engineering and studied the `Solidity` programming language for the Ethereum Blockchain with the help of <a href="https://remix.ethereum.org/)](https://remix.ethereum.org/">Remix IDE</a> <br>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  
-I explored Front End Web Devlopment and studied a bit of `HTML`, `CSS` and `Javascript`. I'm going to be building out my website. Here are a few of my <a href="https://github.com/Bit-Budha/website_inspirations.repo/tree/main">inspirations</a>.
- <br>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Live Coding music has beeen on of the most interseting things I've seen done with code in years.<a href="https://strudel.cc/workshop/getting-started/"> Strudel </a> is a live coding platfrom that uses javascript in the browser. I've been experimenting making music with it.
-
-**I love Linux and have beeen using it for years for years and am getting deeper into `Bash`.`vim` is my favorite text editor. I've used Ubutnu, Kubuntu, Kali Linux and am moving onto REHL (Red Hat Enterpise Linux) for my <a href="https://www.youtube.com/watch?v=KNgOpRoJlwU">personal computing</a> as I study for my RHCSA (Red Hat Certified System Administrator) to be become a Linux System Administrator <br>
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)**
-
-
-I love anything that keeps me in the CLI (Command Line Interface), so on the Windows side I looked into`CMD` batch scripts and `Powershell`, <br>
-![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-
-I dabbled in `C#` a bit for my interest in Unity game engine..<br>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-I also have to learn more of `C` to understand the  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7363390688975077376/">Linux Kernal </a>better, also I know `Rust` is gradually being addeded into the Linux Kernal as well so I have to be ready for that as well. <br>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-The lanaguage I respect the most is `x86_64 Assembly Language`, it really teaches how the CPU works on a intricate level. I respect Malware Analyst and <a href="https://github.com/Bit-Budha/reverse_engineering.repo">Reverse Engineers</a> a ton.<br>
-![x86_64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-525252?style=for-the-badge&logo=cogs&logoColor=white)
-
-
-As I create more projects with these languages I'll create more repositories to showcase my skills.
