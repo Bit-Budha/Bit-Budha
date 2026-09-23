@@ -4,6 +4,9 @@ Updated Wednesday the 23rd of September 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
+My last 4 roles were in Cybersecurity. To see the enterprises and organizations I've worked with, check out the work history section on my LinkedIn <br>
+https://www.linkedin.com/in/keganbastia
+
 My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
 
 I have my 
@@ -40,9 +43,6 @@ AWS Certified Cloud Practitioner — CLF-C02 <br>
 AWS Certified AI Practitioner — AIF-C01 <br>
 AWS Certified Solutions Architect – Associate — SAA-C03<br>
 Certified Wireless Technology Specialist (CWTS) <br>
-
-My last 4 roles were in Cybersecurity. To see the enterprises and organizations I've worked with, check out the work history section on my LinkedIn <br>
-https://www.linkedin.com/in/keganbastia
 
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
