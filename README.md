@@ -2,6 +2,8 @@
 
 Updated Wednesday the 23rd of September 2026
 
+Open to Linux, Networking and Cybersecurity roles.
+
 My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
 
 I have my 
