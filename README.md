@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-Monday the 21st of September 2026 Update
+Updated Wednesday the 23rd of September 2026
 
 My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
 
