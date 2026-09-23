@@ -54,4 +54,7 @@ https://www.offsec.com/courses/exp-401/
 I also host the Blacks In Cybersecurity Podcast, check that out here <br>
 https://www.youtube.com/playlist?list=PLau8hF6Nab7sFdFPMu042N0ORjkTpGkpQ <br>
 
+If you want to have a video chat with me, pick a time. <br>
+https://calendly.com/bit_budha/30min?back=1&month=2026-09 <br>
+
 The goal is to live in the (CLI) command line interface, programming, and hacking, while never having to slow down in the GUI (graphical user interface) or chase a mouse.
