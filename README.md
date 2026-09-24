@@ -47,11 +47,11 @@ Certified Wireless Technology Specialist (CWTS) <br>
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
 
-Outside of that I'm going to get my RHCA from Red Hat to max out in Enterprise Linux <br>
+Outside of that I'm going to get my RHCA/Red Hat Certified Architect from Red Hat to max out in Enterprise Linux <br>
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
 
-Also going to get my OSEE to max out on the Red Teamings side as well<br>
-https://www.offsec.com/courses/exp-401/
+Also going to get my Offensive Security Certified Expert 3/OSCE3 to max out on the Red Teamings side as well<br>
+https://www.offsec.com/courses/exp-401/](https://www.offsec.com/certificates/osce3/
 
 I also host the Blacks In Cybersecurity Podcast, check that out here <br>
 https://www.youtube.com/playlist?list=PLau8hF6Nab7sFdFPMu042N0ORjkTpGkpQ <br>
