@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-Updated Wednesday the 23rd of September 2026
+Updated Tuesday the 29th of September 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
@@ -17,7 +17,7 @@ CompTIA Network+ <br>
 CompTIA Security+ and<br>
 Cisco Certified Support Technician Networking (CCST) 100-150
 
-I got a WIOA grant for PC Professor and they are helping me get 13 tech certs this year, keep up with my progress here and on my Youtube channel
+I got a grant for PC Professor and they are helping me get 13 tech certs this year, keep up with my progress here and on my Youtube channel
 
 My Tech Youtube Channel <br>
 https://www.youtube.com/@BitBudha <br> 
