@@ -7,7 +7,7 @@ Open to Linux, Networking and Cybersecurity roles.
 My last 4 roles were in Cybersecurity. To see the enterprises and organizations I've worked with, check out the work history section on my LinkedIn <br>
 https://www.linkedin.com/in/keganbastia
 
-My main tech goals are in Enterprise Linux, the Linux Kernel and Red Teaming.
+The spaces in tech that interest me most are Enterprise Linux, Red Teaming, The Linux Kernel, Reverse Engineering and HPC (High Performance Computing)
 
 I have my 
 
