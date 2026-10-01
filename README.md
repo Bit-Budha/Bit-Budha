@@ -1,10 +1,15 @@
 <p align="center"><font color="green">
 
-Updated Wednesday the 30th of September 2026
+Updated Thursday the 1st of October 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
-My last 4 roles were in Cybersecurity. To see the enterprises and organizations I've worked with, check out the work history section on my LinkedIn <br>
+My last 4 roles were 
+Podcast Host at Blacks In Cybersecurity <br>
+Cybersecurity Specialist at Reli Group Inc <br>
+Cybersecurity Mentor at Diversity Cyber Council <br>
+Cyber Team Lead at Cyber Now Labs <br>
+If you want to learn more about those organizations check out my Linekdin <br>
 https://www.linkedin.com/in/keganbastia
 
 The spaces in tech that interest me most are Enterprise Linux, Red Teaming, The Linux Kernel, Reverse Engineering and HPC (High Performance Computing)
