@@ -4,7 +4,7 @@ Updated Thursday the 1st of October 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
-My last 4 roles were 
+My last 4 roles were <br>
 Podcast Host at Blacks In Cybersecurity <br>
 Cybersecurity Specialist at Reli Group Inc <br>
 Cybersecurity Mentor at Diversity Cyber Council <br>
