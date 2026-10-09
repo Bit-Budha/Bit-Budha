@@ -1,6 +1,6 @@
 <p align="center"><font color="green">
 
-Updated Thursday the 1st of October 2026
+Updated Friday the 9th of October 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
@@ -52,7 +52,10 @@ Certified Wireless Technology Specialist (CWTS) <br>
 I also have 22 credits at WGU working towards my Accelerated IT Bachelors and Masters <br>
 https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program/accelerated.html 
 
-Outside of that I'm going to get my RHCA/Red Hat Certified Architect from Red Hat to max out in Enterprise Linux <br>
+Outside of that I'm going to contribute to the Linux Kernel and need to finish this course <br>
+https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/
+
+Also I'm going to get my RHCA/Red Hat Certified Architect from Red Hat to max out in Enterprise Linux <br>
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
 
 Also going to get my Offensive Security Certified Expert 3/OSCE3 from Offsec to max out on the Red Teamings side as well<br>
