@@ -43,7 +43,7 @@ and then will be moving onto my
 
 Cisco Certified Specialist – (Collaboration Core 350-801) CLCOR <br>
 Microsoft 365 Certified: Fundamentals (MS-900) <br>
-Microsoft Certified: Azure AI Fundamentals (AI-900) <br>
+Microsoft Certified: Azure AI Fundamentals (AI-901) <br>
 Microsoft Certified: Azure Administrator Associate (AZ-104) <br>
 AWS Certified Cloud Practitioner — CLF-C02 <br>
 AWS Certified AI Practitioner — AIF-C01 <br>
