@@ -1,7 +1,7 @@
 🇭🇹
 <p align="center"><font color="green">
 
-Updated Monday the 26th of October 2026
+Updated Tuesday the 27th of October 2026
 
 Open to Linux, Networking and Cybersecurity roles.
 
