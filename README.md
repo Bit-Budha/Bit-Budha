@@ -59,7 +59,7 @@ https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-
 I'm going to get my RHCA/Red Hat Certified Architect from Red Hat to max out in Enterprise Linux <br>
 https://www.redhat.com/en/services/certification/red-hat-certified-architect-in-enterprise-linux
 
-Also going to get my OffSec Exploitation Expert cerrtication to max out on the Red Teamings side as well<br>
+Also going to get my OSEE/OffSec Exploitation Expert cerrtication to max out on the Red Teamings side as well<br>
 https://www.offsec.com/courses/exp-401/
 
 I also host the Blacks In Cybersecurity Podcast, check that out here <br>
